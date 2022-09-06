@@ -2,7 +2,7 @@ import { Component } from 'react';
 import { CardList } from './components/card-list/card-list.component';
 // import './components/card-list/card-list.styles.css';
 import './App.css';
-import { Card } from './components/card/card.component';
+// import { Card } from './components/card/card.component';
 // import { Details } from './components/card/card.details';
 // import {
 //   BrowserRouter as Router,
